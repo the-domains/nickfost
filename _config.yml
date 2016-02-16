@@ -1,0 +1,29 @@
+name: Nickfost
+favicon: null
+layout_spectrum: 0.9872333176899701
+typography_spectrum: 0.7621368109248579
+title: Nickfost
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6902214251458645
+  lightness: 0.530641372082755
+  saturation: 0.5707435084041208
+  rhythmicContrast: 0.27533555193804204
+purpose: []
