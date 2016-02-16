@@ -1,7 +1,8 @@
 name: Nickfost
 favicon: null
-layout_spectrum: 0.9872333176899701
-typography_spectrum: 0.7621368109248579
+layout_spectrum: 1
+typography_spectrum: 0.49518
+title: Nickfost
 cta:
   domain: null
   bucket: null
