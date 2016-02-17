@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-17T19:16:53.245Z'
-dateModified: '2016-02-17T05:56:57.501Z'
+datePublished: '2016-02-17T19:19:58.770Z'
+dateModified: '2016-02-17T19:17:10.077Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-16-my-dog-maddie.md
