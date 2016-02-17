@@ -4,11 +4,11 @@
         <description><![CDATA[Nickfost]]></description>
         <link>https://thegrid.ai/nickfost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 06:07:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 06:08:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nickfost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HOWTOSCRIPTKIDDIE]]></title>
-            <description><![CDATA[<article><h1>HOWTOSCRIPTKIDDIE</h1><p>This how-to will focus on how to locate your target in a network and how to brute force login to your target. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b41ea45a50e79b129e897c98e0bb51879b895ef5.png"></article>]]></description>
+            <description><![CDATA[<article><h1>HOWTOSCRIPTKIDDIE</h1><p>This how-to will focus on how to locate your target in a network and how to brute force login to your target. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93bf75efa1e2fbf2b0951e68056086d0c44caf46.png"></article>]]></description>
             <link>http://nckfst.us/vq3bm</link>
             <guid isPermaLink="false">304e9ff7-cbe9-43e0-a3bc-7918c76140bf</guid>
             <pubDate>Wed, 17 Feb 2016 06:06:40 GMT</pubDate>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/nickfost/my-dog-maddie/index.html</link>
             <guid isPermaLink="false">cbf0ee26-71cf-4041-ba7d-036fc76a4b12</guid>
             <pubDate>Tue, 16 Feb 2016 22:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>Hello world. This is Grid. IDK how to use it </p></article>]]></description>
-            <link>https://thegrid.ai/nickfost/hello-world/index.html</link>
-            <guid isPermaLink="false">c2a1e985-7b36-4439-8fe2-f82b09408566</guid>
-            <pubDate>Tue, 16 Feb 2016 22:36:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
