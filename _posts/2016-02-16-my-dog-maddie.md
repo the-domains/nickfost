@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-16T22:47:12.619Z'
-dateModified: '2016-02-16T22:46:59.728Z'
+datePublished: '2016-02-17T19:16:53.245Z'
+dateModified: '2016-02-17T05:56:57.501Z'
 title: ''
 author: []
+sourcePath: _posts/2016-02-16-my-dog-maddie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-16-my-dog-maddie.md
-published: true
 url: my-dog-maddie/index.html
 _type: Article
 
